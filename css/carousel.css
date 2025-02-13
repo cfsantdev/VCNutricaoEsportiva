@@ -1,0 +1,12 @@
+.carousel-slide {
+	display:flex; 
+	height: 74vh;
+}
+
+.carousel-inner {
+	display: flex;
+}
+
+.carousel-item-img{
+	object-fit: fill !important;
+}

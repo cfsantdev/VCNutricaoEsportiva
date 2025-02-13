@@ -1,0 +1,16 @@
+.planos-alimentares {
+
+}
+
+.planos-alimentares-container {
+
+}
+
+.planos-alimentares-container-title {
+	max-height: 80px !important;
+}
+
+.card-img {
+	height: 442px !important;
+	object-fit: fill !important;
+}
